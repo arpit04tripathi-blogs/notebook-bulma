@@ -7,6 +7,7 @@ echo =========================================================
 case $1 in
   --start)
     echo docker compose up
+    open -a 'Docker Desktop'
     docker compose -f ./docker/docker-compose.yml up server -d
     cmd=$( open -a "Google Chrome" http://localhost:9999/jekyll-template-src/ )
     echo opening chrome $cmd
