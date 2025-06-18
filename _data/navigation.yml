@@ -1,0 +1,87 @@
+- name: Basics
+  link: /#
+  dropdown:
+    - name: Http
+      link: /http
+    - name: CORS
+      link: /cors
+    - name: Clean Code
+      link: /clean-code
+    - name: Git
+      link: /git
+    - name: OWASP
+      link: /owasp
+    - name: Web Services
+      link: /web-services
+- name: CSE
+  link: /#
+  dropdown:
+    - name: Data Structures
+      link: /ds
+    - name: Algorithms
+      link: /algo
+    - name: Networking
+      link: /networking
+    - name: OS
+      link: /os
+- name: Backend
+  link: /#
+  dropdown:
+    - name: Java
+      link: /java
+    - name: Spring Framework
+      link: /spring-framework
+    - name: Hibernate
+      link: /hibernate
+    - name: Junit
+      link: /junit
+    - name: Json
+      link: /json
+    - name: Lombok
+      link: /lombok
+    - name: Logger
+      link: /logging
+- name: Frontend
+  link: /#
+  dropdown:
+    - name: HTML (Basics)
+      link: /html
+    - name: CSS (Basics)
+      link: /css
+    - name: Javascript (JS)
+      link: /js
+    - name: SASS
+      link: /sass
+    - name: Vue JS
+      link: /vue-js
+    - name: Jest
+      link: /jest
+    - name: Bootstrap
+      link: /bootstrap
+- name: Devops
+  link: /#
+  dropdown:
+    - name: Gradle
+      link: /gradle
+    - name: Docker
+      link: /docker
+    - name: Jenkins
+      link: /jenkins
+    - name: Puppet
+      link: /puppet
+- name: Architecture
+  link: /#
+  dropdown:
+    - name: Microservices
+      link: /microservices
+    - name: AWS
+      link: /aws
+- name: Tutorials
+  link: /#
+  dropdown:
+    - name: Spring + Hibernate
+      link: /spring-and-hibernate
+    - name: Spring+Security
+      link: /spring-security
+- name: External References
+  link: /external-refs

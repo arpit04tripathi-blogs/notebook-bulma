@@ -9,7 +9,7 @@ case $1 in
     echo docker compose up
     open -a 'Docker Desktop'
     docker compose -f ./docker/docker-compose.yml up server -d
-    cmd=$( open -a "Google Chrome" http://localhost:9999/notebook/ )
+    cmd=$( open -a "Google Chrome" http://localhost:9999/notebook-bulma/ )
     echo opening chrome $cmd
     ;;
   --stop)
