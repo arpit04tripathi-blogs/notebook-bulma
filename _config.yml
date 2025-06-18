@@ -2,7 +2,7 @@ title: Developer Notebook
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Developer Notebook
-baseurl: "/notebook" # the subpath of your site, e.g. /blog
+baseurl: "/notebook-bulma" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Theme specific configs
